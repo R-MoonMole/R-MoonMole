@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+나는 이런사람입니다.
+잘 부탁드립니다.
+
+
 <!--
 **R-MoonMole/R-MoonMole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
